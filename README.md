@@ -78,7 +78,7 @@ docker run -e BINARY_NAME=ethr -e GOOS=darwin -v $(pwd):/out microsoft/ethr make
 ## Using go get
 
 ```
-go get github.com/Microsoft/ethr
+go get github.com/microsoft/ethr
 ```
 
 ## Using ArchLinux AUR
